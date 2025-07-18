@@ -53,10 +53,12 @@ Hi! I'm a software engineering student with a strong interest in web development
 
 ### 📚 Currently Exploring
 
-- Advanced Flutter UI & animations  
+- Cloud technologies  
 - Supabase Edge Functions  
 - Clean DevOps workflows  
-- Fundamentals of ML & data science
+- Data science & AI
+ 
+
 
 ---
 
