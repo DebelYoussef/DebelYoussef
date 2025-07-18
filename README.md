@@ -14,8 +14,7 @@
 
 ### 🧠 About Me
 
-Hi! I'm a **software engineering student** with a strong interest in **web development**, **mobile apps**, **DevOps**, and **machine learning**.  
-While I haven’t started ML projects yet, I’m excited to learn and explore the field further soon!
+Hi! I'm a software engineering student with a strong interest in web development, mobile apps, DevOps, and machine learning. I'm especially drawn to data science and data analysis, and I'm actively working toward building skills and projects in those areas.
 
 ---
 
