@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-Hi! I'm a software engineering student with a strong interest in web development, mobile apps, DevOps, and machine learning. I'm especially drawn to data science and data analysis, and I'm actively working toward building skills and projects in those areas.
+Hi! I'm a software engineering student with a strong interest in web development and mobile apps. I'm now focusing on cloud technologies and DevOps, especially working with tools like Docker, Kubernetes, and AWS to build modern, scalable infrastructure.
 
 ---
 
