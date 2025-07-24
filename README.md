@@ -53,10 +53,10 @@ Hi! I'm a software engineering student with a strong interest in web development
 
 ### 📚 Currently Exploring
 
-- Cloud technologies  
-- Supabase Edge Functions  
-- Clean DevOps workflows  
-- Data science & AI
+-☁️ Cloud technologies   
+- ⚙️ DevOps
+- 🧪 Software testing & CI/CD pipelines
+
  
 
 
