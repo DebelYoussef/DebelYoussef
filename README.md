@@ -2,9 +2,8 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=200&section=header&text=Hi%20there!%20I'm%20a%20s Cloud & DevOps Engineer%20Engineering%20Student%20👨‍💻&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=200&section=header&text=Hi%20there!%20I'm%20Youssef%20Debel%20👋%20Cloud%20&%20DevOps%20Engineering%20Student&fontSize=28&fontColor=ffffff"/>
 </p>
-
 <p align="center">
   🚀 Passionate about learning & building with modern technologies  
   🌍 Based in Tunisia | 🎓 Engineering Student | 💡 Always exploring
