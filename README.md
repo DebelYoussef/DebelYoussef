@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-Hi! I'm a software engineering student . I'm now focusing on cloud technologies and DevOps, especially working with tools like Docker, Kubernetes, and AWS to build modern, scalable infrastructure.
+Hi! I'm a  Cloud & DevOps engineering student . I'm now focusing on cloud technologies and DevOps, especially working with tools like Docker, Kubernetes, and AWS to build modern, scalable infrastructure.
 
 ---
 
