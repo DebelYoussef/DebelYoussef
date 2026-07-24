@@ -9,7 +9,7 @@
 <p align="center">
 🚀 Building modern applications and cloud infrastructure  
 <br>
-🇹🇳 Tunisia | 🎓 Cloud & DevOps Student
+🇹🇳 Tunisia | 🎓 Engineering Student
 </p>
 
 ---
