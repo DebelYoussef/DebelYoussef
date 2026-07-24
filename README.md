@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-Hi! I'm **Youssef Debel**, a Software Engineering student focusing on **Cloud Engineering and DevOps**.
+Hi! I'm **Youssef Debel**, a **Cloud Engineering and DevOps** student .
 
 I enjoy designing and building scalable systems using:
 
