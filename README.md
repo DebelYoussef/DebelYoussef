@@ -172,7 +172,7 @@ Technologies:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DebelYoussef&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=DebelYoussef&show_icons=true&theme=tokyonight&cache_seconds=1800"
     alt="GitHub Stats"
   />
 </p>
@@ -186,7 +186,7 @@ Technologies:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebelYoussef&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DebelYoussef&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
