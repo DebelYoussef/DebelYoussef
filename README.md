@@ -171,25 +171,25 @@ Technologies:
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DebelYoussef&show_icons=true&theme=tokyonight"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DebelYoussef&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
-
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DebelYoussef&theme=tokyonight"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=DebelYoussef&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
-
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebelYoussef&layout=compact&theme=tokyonight"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebelYoussef&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
-
 
 ---
 
